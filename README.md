@@ -1,6 +1,6 @@
 # Neural_Network_Charity_Analysis
 
-## Overview:
+## Overview
 
 
 The purpose of this analyis is to create a a binary classifier that is capable of predicting whether applicants will be successful if funded by a fictional company "Alphabet Soup." The dataset contains over 34,000 organizations that have been funded by alphabet soup. By training a deep learning model on a retrospective dataset of about 34k historical donations, the model served as a binary classifier to predict whether applicants would be successful if given funding. This project is comprised of the following steps:
@@ -24,6 +24,6 @@ The columns EIN and NAME were determined to have no bearing on the outcome and w
 
 Rectified Linear Unit (ReLU) is used as the activation function for both the first and second hidden layers. For the output layer, a sigmoid activation function is used. While training the model, a callback saves the model's weights every 5 epochs. After training, the model's Loss and Accuracy values are evaluated.
 
-###  Summary:
+###  Summary
 
 The models accuracy ended up being 72.5%.  Although I did not get to the accuracy of 75% that I wanted it is possible the reason for this is we may have had to drop more features which may have affected how good the neural network actually is. The best way to increase the accuracy of your model is to have more data. 
