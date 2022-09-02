@@ -11,10 +11,9 @@ The purpose of this analyis is to create a a binary classifier that is capable o
  
 ##  Resources:
 
-Data Sources: 
-charity_data.csv
-Software:
-Jupyter Notebook,pandas, tensorflow, Visual Studio Code, scikit-learn
+Data Sources: charity_data.csv
+
+Software: Jupyter Notebook,pandas, tensorflow, Visual Studio Code, scikit-learn
 
 ## Results 
 
